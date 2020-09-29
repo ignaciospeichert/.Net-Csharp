@@ -1,0 +1,13 @@
+C:\Users\Nacho\Source\Repos\EjercicioTutorial\EjercicioTutorial\bin\Debug\netcoreapp3.1\EjercicioTutorial.exe
+C:\Users\Nacho\Source\Repos\EjercicioTutorial\EjercicioTutorial\bin\Debug\netcoreapp3.1\EjercicioTutorial.deps.json
+C:\Users\Nacho\Source\Repos\EjercicioTutorial\EjercicioTutorial\bin\Debug\netcoreapp3.1\EjercicioTutorial.runtimeconfig.json
+C:\Users\Nacho\Source\Repos\EjercicioTutorial\EjercicioTutorial\bin\Debug\netcoreapp3.1\EjercicioTutorial.runtimeconfig.dev.json
+C:\Users\Nacho\Source\Repos\EjercicioTutorial\EjercicioTutorial\bin\Debug\netcoreapp3.1\EjercicioTutorial.dll
+C:\Users\Nacho\Source\Repos\EjercicioTutorial\EjercicioTutorial\bin\Debug\netcoreapp3.1\EjercicioTutorial.pdb
+C:\Users\Nacho\Source\Repos\EjercicioTutorial\EjercicioTutorial\obj\Debug\netcoreapp3.1\EjercicioTutorial.csprojAssemblyReference.cache
+C:\Users\Nacho\Source\Repos\EjercicioTutorial\EjercicioTutorial\obj\Debug\netcoreapp3.1\EjercicioTutorial.AssemblyInfoInputs.cache
+C:\Users\Nacho\Source\Repos\EjercicioTutorial\EjercicioTutorial\obj\Debug\netcoreapp3.1\EjercicioTutorial.AssemblyInfo.cs
+C:\Users\Nacho\Source\Repos\EjercicioTutorial\EjercicioTutorial\obj\Debug\netcoreapp3.1\EjercicioTutorial.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\Source\Repos\EjercicioTutorial\EjercicioTutorial\obj\Debug\netcoreapp3.1\EjercicioTutorial.dll
+C:\Users\Nacho\Source\Repos\EjercicioTutorial\EjercicioTutorial\obj\Debug\netcoreapp3.1\EjercicioTutorial.pdb
+C:\Users\Nacho\Source\Repos\EjercicioTutorial\EjercicioTutorial\obj\Debug\netcoreapp3.1\EjercicioTutorial.genruntimeconfig.cache

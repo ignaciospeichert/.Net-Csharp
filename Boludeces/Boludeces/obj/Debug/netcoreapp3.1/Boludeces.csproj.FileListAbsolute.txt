@@ -1,0 +1,13 @@
+C:\Users\Nacho\Source\Repos\Boludeces\Boludeces\bin\Debug\netcoreapp3.1\Boludeces.exe
+C:\Users\Nacho\Source\Repos\Boludeces\Boludeces\bin\Debug\netcoreapp3.1\Boludeces.deps.json
+C:\Users\Nacho\Source\Repos\Boludeces\Boludeces\bin\Debug\netcoreapp3.1\Boludeces.runtimeconfig.json
+C:\Users\Nacho\Source\Repos\Boludeces\Boludeces\bin\Debug\netcoreapp3.1\Boludeces.runtimeconfig.dev.json
+C:\Users\Nacho\Source\Repos\Boludeces\Boludeces\bin\Debug\netcoreapp3.1\Boludeces.dll
+C:\Users\Nacho\Source\Repos\Boludeces\Boludeces\bin\Debug\netcoreapp3.1\Boludeces.pdb
+C:\Users\Nacho\Source\Repos\Boludeces\Boludeces\obj\Debug\netcoreapp3.1\Boludeces.csprojAssemblyReference.cache
+C:\Users\Nacho\Source\Repos\Boludeces\Boludeces\obj\Debug\netcoreapp3.1\Boludeces.AssemblyInfoInputs.cache
+C:\Users\Nacho\Source\Repos\Boludeces\Boludeces\obj\Debug\netcoreapp3.1\Boludeces.AssemblyInfo.cs
+C:\Users\Nacho\Source\Repos\Boludeces\Boludeces\obj\Debug\netcoreapp3.1\Boludeces.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\Source\Repos\Boludeces\Boludeces\obj\Debug\netcoreapp3.1\Boludeces.dll
+C:\Users\Nacho\Source\Repos\Boludeces\Boludeces\obj\Debug\netcoreapp3.1\Boludeces.pdb
+C:\Users\Nacho\Source\Repos\Boludeces\Boludeces\obj\Debug\netcoreapp3.1\Boludeces.genruntimeconfig.cache

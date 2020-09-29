@@ -1,0 +1,13 @@
+C:\Users\Nacho\Source\Repos\ClasesDiplomatura\ClasesDiplomatura\bin\Debug\netcoreapp3.1\ClasesDiplomatura.exe
+C:\Users\Nacho\Source\Repos\ClasesDiplomatura\ClasesDiplomatura\bin\Debug\netcoreapp3.1\ClasesDiplomatura.deps.json
+C:\Users\Nacho\Source\Repos\ClasesDiplomatura\ClasesDiplomatura\bin\Debug\netcoreapp3.1\ClasesDiplomatura.runtimeconfig.json
+C:\Users\Nacho\Source\Repos\ClasesDiplomatura\ClasesDiplomatura\bin\Debug\netcoreapp3.1\ClasesDiplomatura.runtimeconfig.dev.json
+C:\Users\Nacho\Source\Repos\ClasesDiplomatura\ClasesDiplomatura\bin\Debug\netcoreapp3.1\ClasesDiplomatura.dll
+C:\Users\Nacho\Source\Repos\ClasesDiplomatura\ClasesDiplomatura\bin\Debug\netcoreapp3.1\ClasesDiplomatura.pdb
+C:\Users\Nacho\Source\Repos\ClasesDiplomatura\ClasesDiplomatura\obj\Debug\netcoreapp3.1\ClasesDiplomatura.csprojAssemblyReference.cache
+C:\Users\Nacho\Source\Repos\ClasesDiplomatura\ClasesDiplomatura\obj\Debug\netcoreapp3.1\ClasesDiplomatura.AssemblyInfoInputs.cache
+C:\Users\Nacho\Source\Repos\ClasesDiplomatura\ClasesDiplomatura\obj\Debug\netcoreapp3.1\ClasesDiplomatura.AssemblyInfo.cs
+C:\Users\Nacho\Source\Repos\ClasesDiplomatura\ClasesDiplomatura\obj\Debug\netcoreapp3.1\ClasesDiplomatura.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\Source\Repos\ClasesDiplomatura\ClasesDiplomatura\obj\Debug\netcoreapp3.1\ClasesDiplomatura.dll
+C:\Users\Nacho\Source\Repos\ClasesDiplomatura\ClasesDiplomatura\obj\Debug\netcoreapp3.1\ClasesDiplomatura.pdb
+C:\Users\Nacho\Source\Repos\ClasesDiplomatura\ClasesDiplomatura\obj\Debug\netcoreapp3.1\ClasesDiplomatura.genruntimeconfig.cache

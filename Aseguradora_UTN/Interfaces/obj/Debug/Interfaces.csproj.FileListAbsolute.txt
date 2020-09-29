@@ -1,0 +1,5 @@
+C:\Users\Nacho\source\repos\Aseguradora_UTN\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\Nacho\source\repos\Aseguradora_UTN\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Nacho\source\repos\Aseguradora_UTN\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\source\repos\Aseguradora_UTN\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\Nacho\source\repos\Aseguradora_UTN\Interfaces\obj\Debug\Interfaces.pdb

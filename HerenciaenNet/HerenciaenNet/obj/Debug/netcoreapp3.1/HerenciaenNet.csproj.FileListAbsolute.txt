@@ -1,0 +1,13 @@
+C:\Users\Nacho\Source\Repos\HerenciaenNet\HerenciaenNet\obj\Debug\netcoreapp3.1\HerenciaenNet.csprojAssemblyReference.cache
+C:\Users\Nacho\Source\Repos\HerenciaenNet\HerenciaenNet\obj\Debug\netcoreapp3.1\HerenciaenNet.AssemblyInfoInputs.cache
+C:\Users\Nacho\Source\Repos\HerenciaenNet\HerenciaenNet\obj\Debug\netcoreapp3.1\HerenciaenNet.AssemblyInfo.cs
+C:\Users\Nacho\Source\Repos\HerenciaenNet\HerenciaenNet\obj\Debug\netcoreapp3.1\HerenciaenNet.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\Source\Repos\HerenciaenNet\HerenciaenNet\bin\Debug\netcoreapp3.1\HerenciaenNet.exe
+C:\Users\Nacho\Source\Repos\HerenciaenNet\HerenciaenNet\bin\Debug\netcoreapp3.1\HerenciaenNet.deps.json
+C:\Users\Nacho\Source\Repos\HerenciaenNet\HerenciaenNet\bin\Debug\netcoreapp3.1\HerenciaenNet.runtimeconfig.json
+C:\Users\Nacho\Source\Repos\HerenciaenNet\HerenciaenNet\bin\Debug\netcoreapp3.1\HerenciaenNet.runtimeconfig.dev.json
+C:\Users\Nacho\Source\Repos\HerenciaenNet\HerenciaenNet\bin\Debug\netcoreapp3.1\HerenciaenNet.dll
+C:\Users\Nacho\Source\Repos\HerenciaenNet\HerenciaenNet\bin\Debug\netcoreapp3.1\HerenciaenNet.pdb
+C:\Users\Nacho\Source\Repos\HerenciaenNet\HerenciaenNet\obj\Debug\netcoreapp3.1\HerenciaenNet.dll
+C:\Users\Nacho\Source\Repos\HerenciaenNet\HerenciaenNet\obj\Debug\netcoreapp3.1\HerenciaenNet.pdb
+C:\Users\Nacho\Source\Repos\HerenciaenNet\HerenciaenNet\obj\Debug\netcoreapp3.1\HerenciaenNet.genruntimeconfig.cache

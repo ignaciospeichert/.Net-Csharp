@@ -1,0 +1,13 @@
+C:\Users\Nacho\Source\Repos\Predicados\Predicados\bin\Debug\netcoreapp3.1\Predicados.exe
+C:\Users\Nacho\Source\Repos\Predicados\Predicados\bin\Debug\netcoreapp3.1\Predicados.deps.json
+C:\Users\Nacho\Source\Repos\Predicados\Predicados\bin\Debug\netcoreapp3.1\Predicados.runtimeconfig.json
+C:\Users\Nacho\Source\Repos\Predicados\Predicados\bin\Debug\netcoreapp3.1\Predicados.runtimeconfig.dev.json
+C:\Users\Nacho\Source\Repos\Predicados\Predicados\bin\Debug\netcoreapp3.1\Predicados.dll
+C:\Users\Nacho\Source\Repos\Predicados\Predicados\bin\Debug\netcoreapp3.1\Predicados.pdb
+C:\Users\Nacho\Source\Repos\Predicados\Predicados\obj\Debug\netcoreapp3.1\Predicados.csprojAssemblyReference.cache
+C:\Users\Nacho\Source\Repos\Predicados\Predicados\obj\Debug\netcoreapp3.1\Predicados.AssemblyInfoInputs.cache
+C:\Users\Nacho\Source\Repos\Predicados\Predicados\obj\Debug\netcoreapp3.1\Predicados.AssemblyInfo.cs
+C:\Users\Nacho\Source\Repos\Predicados\Predicados\obj\Debug\netcoreapp3.1\Predicados.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\Source\Repos\Predicados\Predicados\obj\Debug\netcoreapp3.1\Predicados.dll
+C:\Users\Nacho\Source\Repos\Predicados\Predicados\obj\Debug\netcoreapp3.1\Predicados.pdb
+C:\Users\Nacho\Source\Repos\Predicados\Predicados\obj\Debug\netcoreapp3.1\Predicados.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MhBkUoFlAic6f1ShdAPT63qmbOVubeapgvV0rvZvlJ9XWC7a/KrL7CGA5FcRrWVDG6WY7cmwRhNWOW10fAYAgQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nacho\\Source\\Repos\\AutoEjemploCurso\\AutoEjemploCurso\\AutoEjemploCurso.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nacho\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Users\Nacho\Source\Repos\AutoEjemploCurso\AutoEjemploCurso\bin\Debug\netcoreapp3.1\AutoEjemploCurso.exe
+C:\Users\Nacho\Source\Repos\AutoEjemploCurso\AutoEjemploCurso\bin\Debug\netcoreapp3.1\AutoEjemploCurso.deps.json
+C:\Users\Nacho\Source\Repos\AutoEjemploCurso\AutoEjemploCurso\bin\Debug\netcoreapp3.1\AutoEjemploCurso.runtimeconfig.json
+C:\Users\Nacho\Source\Repos\AutoEjemploCurso\AutoEjemploCurso\bin\Debug\netcoreapp3.1\AutoEjemploCurso.runtimeconfig.dev.json
+C:\Users\Nacho\Source\Repos\AutoEjemploCurso\AutoEjemploCurso\bin\Debug\netcoreapp3.1\AutoEjemploCurso.dll
+C:\Users\Nacho\Source\Repos\AutoEjemploCurso\AutoEjemploCurso\bin\Debug\netcoreapp3.1\AutoEjemploCurso.pdb
+C:\Users\Nacho\Source\Repos\AutoEjemploCurso\AutoEjemploCurso\obj\Debug\netcoreapp3.1\AutoEjemploCurso.csprojAssemblyReference.cache
+C:\Users\Nacho\Source\Repos\AutoEjemploCurso\AutoEjemploCurso\obj\Debug\netcoreapp3.1\AutoEjemploCurso.AssemblyInfoInputs.cache
+C:\Users\Nacho\Source\Repos\AutoEjemploCurso\AutoEjemploCurso\obj\Debug\netcoreapp3.1\AutoEjemploCurso.AssemblyInfo.cs
+C:\Users\Nacho\Source\Repos\AutoEjemploCurso\AutoEjemploCurso\obj\Debug\netcoreapp3.1\AutoEjemploCurso.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\Source\Repos\AutoEjemploCurso\AutoEjemploCurso\obj\Debug\netcoreapp3.1\AutoEjemploCurso.dll
+C:\Users\Nacho\Source\Repos\AutoEjemploCurso\AutoEjemploCurso\obj\Debug\netcoreapp3.1\AutoEjemploCurso.pdb
+C:\Users\Nacho\Source\Repos\AutoEjemploCurso\AutoEjemploCurso\obj\Debug\netcoreapp3.1\AutoEjemploCurso.genruntimeconfig.cache

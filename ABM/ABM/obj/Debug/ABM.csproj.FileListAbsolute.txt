@@ -1,0 +1,12 @@
+C:\Users\Nacho\Source\Repos\ABM\ABM\bin\Debug\ABM.exe.config
+C:\Users\Nacho\Source\Repos\ABM\ABM\bin\Debug\ABM.exe
+C:\Users\Nacho\Source\Repos\ABM\ABM\bin\Debug\ABM.pdb
+C:\Users\Nacho\Source\Repos\ABM\ABM\obj\Debug\ABM.csprojAssemblyReference.cache
+C:\Users\Nacho\Source\Repos\ABM\ABM\obj\Debug\ABM.Properties.Resources.resources
+C:\Users\Nacho\Source\Repos\ABM\ABM\obj\Debug\ABM.Vistas.Empleados.FormActualizar.resources
+C:\Users\Nacho\Source\Repos\ABM\ABM\obj\Debug\ABM.Vistas.Empleados.FormListar.resources
+C:\Users\Nacho\Source\Repos\ABM\ABM\obj\Debug\ABM.Vistas.Empleados.FormRegistrar.resources
+C:\Users\Nacho\Source\Repos\ABM\ABM\obj\Debug\ABM.csproj.GenerateResource.cache
+C:\Users\Nacho\Source\Repos\ABM\ABM\obj\Debug\ABM.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\Source\Repos\ABM\ABM\obj\Debug\ABM.exe
+C:\Users\Nacho\Source\Repos\ABM\ABM\obj\Debug\ABM.pdb

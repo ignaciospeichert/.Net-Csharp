@@ -1,0 +1,15 @@
+C:\Users\Nacho\source\repos\ConexionGestionPedidos\ConexionGestionPedidos\bin\Debug\ConexionGestionPedidos.exe.config
+C:\Users\Nacho\source\repos\ConexionGestionPedidos\ConexionGestionPedidos\bin\Debug\ConexionGestionPedidos.exe
+C:\Users\Nacho\source\repos\ConexionGestionPedidos\ConexionGestionPedidos\bin\Debug\ConexionGestionPedidos.pdb
+C:\Users\Nacho\source\repos\ConexionGestionPedidos\ConexionGestionPedidos\obj\Debug\ConexionGestionPedidos.csprojAssemblyReference.cache
+C:\Users\Nacho\source\repos\ConexionGestionPedidos\ConexionGestionPedidos\obj\Debug\MainWindow.g.cs
+C:\Users\Nacho\source\repos\ConexionGestionPedidos\ConexionGestionPedidos\obj\Debug\App.g.cs
+C:\Users\Nacho\source\repos\ConexionGestionPedidos\ConexionGestionPedidos\obj\Debug\ConexionGestionPedidos_MarkupCompile.cache
+C:\Users\Nacho\source\repos\ConexionGestionPedidos\ConexionGestionPedidos\obj\Debug\ConexionGestionPedidos_MarkupCompile.lref
+C:\Users\Nacho\source\repos\ConexionGestionPedidos\ConexionGestionPedidos\obj\Debug\MainWindow.baml
+C:\Users\Nacho\source\repos\ConexionGestionPedidos\ConexionGestionPedidos\obj\Debug\ConexionGestionPedidos.g.resources
+C:\Users\Nacho\source\repos\ConexionGestionPedidos\ConexionGestionPedidos\obj\Debug\ConexionGestionPedidos.Properties.Resources.resources
+C:\Users\Nacho\source\repos\ConexionGestionPedidos\ConexionGestionPedidos\obj\Debug\ConexionGestionPedidos.csproj.GenerateResource.cache
+C:\Users\Nacho\source\repos\ConexionGestionPedidos\ConexionGestionPedidos\obj\Debug\ConexionGestionPedidos.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\source\repos\ConexionGestionPedidos\ConexionGestionPedidos\obj\Debug\ConexionGestionPedidos.exe
+C:\Users\Nacho\source\repos\ConexionGestionPedidos\ConexionGestionPedidos\obj\Debug\ConexionGestionPedidos.pdb

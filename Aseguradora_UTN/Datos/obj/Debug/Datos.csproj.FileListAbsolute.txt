@@ -1,0 +1,15 @@
+C:\Users\Nacho\source\repos\Aseguradora_UTN\Datos\bin\Debug\Datos.dll
+C:\Users\Nacho\source\repos\Aseguradora_UTN\Datos\bin\Debug\Datos.pdb
+C:\Users\Nacho\source\repos\Aseguradora_UTN\Datos\bin\Debug\Entidades.dll
+C:\Users\Nacho\source\repos\Aseguradora_UTN\Datos\bin\Debug\Interfaces.dll
+C:\Users\Nacho\source\repos\Aseguradora_UTN\Datos\bin\Debug\EntidadesGenericas.dll
+C:\Users\Nacho\source\repos\Aseguradora_UTN\Datos\bin\Debug\Entidades.pdb
+C:\Users\Nacho\source\repos\Aseguradora_UTN\Datos\bin\Debug\Interfaces.pdb
+C:\Users\Nacho\source\repos\Aseguradora_UTN\Datos\bin\Debug\EntidadesGenericas.pdb
+C:\Users\Nacho\source\repos\Aseguradora_UTN\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+C:\Users\Nacho\source\repos\Aseguradora_UTN\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\source\repos\Aseguradora_UTN\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\Nacho\source\repos\Aseguradora_UTN\Datos\obj\Debug\Datos.dll
+C:\Users\Nacho\source\repos\Aseguradora_UTN\Datos\obj\Debug\Datos.pdb
+C:\Users\Nacho\source\repos\Aseguradora_UTN\Datos\bin\Debug\Helpers.dll
+C:\Users\Nacho\source\repos\Aseguradora_UTN\Datos\bin\Debug\Helpers.pdb

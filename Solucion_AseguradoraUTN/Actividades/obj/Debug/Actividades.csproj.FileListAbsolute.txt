@@ -1,0 +1,17 @@
+C:\Users\Nacho\source\repos\Solucion_AseguradoraUTN\Actividades\bin\Debug\Actividades.dll
+C:\Users\Nacho\source\repos\Solucion_AseguradoraUTN\Actividades\bin\Debug\Actividades.pdb
+C:\Users\Nacho\source\repos\Solucion_AseguradoraUTN\Actividades\bin\Debug\Datos.dll
+C:\Users\Nacho\source\repos\Solucion_AseguradoraUTN\Actividades\bin\Debug\Entidades.dll
+C:\Users\Nacho\source\repos\Solucion_AseguradoraUTN\Actividades\bin\Debug\EntidadesGenericas.dll
+C:\Users\Nacho\source\repos\Solucion_AseguradoraUTN\Actividades\bin\Debug\Interfaces.dll
+C:\Users\Nacho\source\repos\Solucion_AseguradoraUTN\Actividades\bin\Debug\Datos.pdb
+C:\Users\Nacho\source\repos\Solucion_AseguradoraUTN\Actividades\bin\Debug\EntidadesGenericas.pdb
+C:\Users\Nacho\source\repos\Solucion_AseguradoraUTN\Actividades\bin\Debug\Entidades.pdb
+C:\Users\Nacho\source\repos\Solucion_AseguradoraUTN\Actividades\bin\Debug\Interfaces.pdb
+C:\Users\Nacho\source\repos\Solucion_AseguradoraUTN\Actividades\obj\Debug\Actividades.csprojAssemblyReference.cache
+C:\Users\Nacho\source\repos\Solucion_AseguradoraUTN\Actividades\obj\Debug\Actividades.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\source\repos\Solucion_AseguradoraUTN\Actividades\obj\Debug\Actividades.csproj.CopyComplete
+C:\Users\Nacho\source\repos\Solucion_AseguradoraUTN\Actividades\obj\Debug\Actividades.dll
+C:\Users\Nacho\source\repos\Solucion_AseguradoraUTN\Actividades\obj\Debug\Actividades.pdb
+C:\Users\Nacho\source\repos\Solucion_AseguradoraUTN\Actividades\bin\Debug\DataHelper.dll
+C:\Users\Nacho\source\repos\Solucion_AseguradoraUTN\Actividades\bin\Debug\DataHelper.pdb

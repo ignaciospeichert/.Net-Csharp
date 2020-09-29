@@ -1,0 +1,6 @@
+C:\Users\Nacho\source\repos\Animales\Animales\bin\Debug\Animales.dll
+C:\Users\Nacho\source\repos\Animales\Animales\bin\Debug\Animales.pdb
+C:\Users\Nacho\source\repos\Animales\Animales\obj\Debug\Animales.csprojAssemblyReference.cache
+C:\Users\Nacho\source\repos\Animales\Animales\obj\Debug\Animales.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\source\repos\Animales\Animales\obj\Debug\Animales.dll
+C:\Users\Nacho\source\repos\Animales\Animales\obj\Debug\Animales.pdb

@@ -1,0 +1,13 @@
+C:\Users\Nacho\Source\Repos\Asociaciones\Asociaciones\bin\Debug\netcoreapp3.1\Asociaciones.exe
+C:\Users\Nacho\Source\Repos\Asociaciones\Asociaciones\bin\Debug\netcoreapp3.1\Asociaciones.deps.json
+C:\Users\Nacho\Source\Repos\Asociaciones\Asociaciones\bin\Debug\netcoreapp3.1\Asociaciones.runtimeconfig.json
+C:\Users\Nacho\Source\Repos\Asociaciones\Asociaciones\bin\Debug\netcoreapp3.1\Asociaciones.runtimeconfig.dev.json
+C:\Users\Nacho\Source\Repos\Asociaciones\Asociaciones\bin\Debug\netcoreapp3.1\Asociaciones.dll
+C:\Users\Nacho\Source\Repos\Asociaciones\Asociaciones\bin\Debug\netcoreapp3.1\Asociaciones.pdb
+C:\Users\Nacho\Source\Repos\Asociaciones\Asociaciones\obj\Debug\netcoreapp3.1\Asociaciones.csprojAssemblyReference.cache
+C:\Users\Nacho\Source\Repos\Asociaciones\Asociaciones\obj\Debug\netcoreapp3.1\Asociaciones.AssemblyInfoInputs.cache
+C:\Users\Nacho\Source\Repos\Asociaciones\Asociaciones\obj\Debug\netcoreapp3.1\Asociaciones.AssemblyInfo.cs
+C:\Users\Nacho\Source\Repos\Asociaciones\Asociaciones\obj\Debug\netcoreapp3.1\Asociaciones.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\Source\Repos\Asociaciones\Asociaciones\obj\Debug\netcoreapp3.1\Asociaciones.dll
+C:\Users\Nacho\Source\Repos\Asociaciones\Asociaciones\obj\Debug\netcoreapp3.1\Asociaciones.pdb
+C:\Users\Nacho\Source\Repos\Asociaciones\Asociaciones\obj\Debug\netcoreapp3.1\Asociaciones.genruntimeconfig.cache

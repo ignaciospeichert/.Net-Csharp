@@ -1,0 +1,13 @@
+C:\Users\Nacho\source\repos\UTN.Empresa\UTN.Empresa\bin\Debug\netcoreapp3.1\UTN.Empresa.exe
+C:\Users\Nacho\source\repos\UTN.Empresa\UTN.Empresa\bin\Debug\netcoreapp3.1\UTN.Empresa.deps.json
+C:\Users\Nacho\source\repos\UTN.Empresa\UTN.Empresa\bin\Debug\netcoreapp3.1\UTN.Empresa.runtimeconfig.json
+C:\Users\Nacho\source\repos\UTN.Empresa\UTN.Empresa\bin\Debug\netcoreapp3.1\UTN.Empresa.runtimeconfig.dev.json
+C:\Users\Nacho\source\repos\UTN.Empresa\UTN.Empresa\bin\Debug\netcoreapp3.1\UTN.Empresa.dll
+C:\Users\Nacho\source\repos\UTN.Empresa\UTN.Empresa\bin\Debug\netcoreapp3.1\UTN.Empresa.pdb
+C:\Users\Nacho\source\repos\UTN.Empresa\UTN.Empresa\obj\Debug\netcoreapp3.1\UTN.Empresa.AssemblyInfoInputs.cache
+C:\Users\Nacho\source\repos\UTN.Empresa\UTN.Empresa\obj\Debug\netcoreapp3.1\UTN.Empresa.AssemblyInfo.cs
+C:\Users\Nacho\source\repos\UTN.Empresa\UTN.Empresa\obj\Debug\netcoreapp3.1\UTN.Empresa.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\source\repos\UTN.Empresa\UTN.Empresa\obj\Debug\netcoreapp3.1\UTN.Empresa.dll
+C:\Users\Nacho\source\repos\UTN.Empresa\UTN.Empresa\obj\Debug\netcoreapp3.1\UTN.Empresa.pdb
+C:\Users\Nacho\source\repos\UTN.Empresa\UTN.Empresa\obj\Debug\netcoreapp3.1\UTN.Empresa.genruntimeconfig.cache
+C:\Users\Nacho\source\repos\UTN.Empresa\UTN.Empresa\obj\Debug\netcoreapp3.1\UTN.Empresa.csprojAssemblyReference.cache

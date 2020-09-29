@@ -1,0 +1,13 @@
+C:\Users\Nacho\Source\Repos\CalculadoraIntermedio\CalculadoraIntermedio\bin\Debug\netcoreapp3.1\CalculadoraIntermedio.exe
+C:\Users\Nacho\Source\Repos\CalculadoraIntermedio\CalculadoraIntermedio\bin\Debug\netcoreapp3.1\CalculadoraIntermedio.deps.json
+C:\Users\Nacho\Source\Repos\CalculadoraIntermedio\CalculadoraIntermedio\bin\Debug\netcoreapp3.1\CalculadoraIntermedio.runtimeconfig.json
+C:\Users\Nacho\Source\Repos\CalculadoraIntermedio\CalculadoraIntermedio\bin\Debug\netcoreapp3.1\CalculadoraIntermedio.runtimeconfig.dev.json
+C:\Users\Nacho\Source\Repos\CalculadoraIntermedio\CalculadoraIntermedio\bin\Debug\netcoreapp3.1\CalculadoraIntermedio.dll
+C:\Users\Nacho\Source\Repos\CalculadoraIntermedio\CalculadoraIntermedio\bin\Debug\netcoreapp3.1\CalculadoraIntermedio.pdb
+C:\Users\Nacho\Source\Repos\CalculadoraIntermedio\CalculadoraIntermedio\obj\Debug\netcoreapp3.1\CalculadoraIntermedio.csprojAssemblyReference.cache
+C:\Users\Nacho\Source\Repos\CalculadoraIntermedio\CalculadoraIntermedio\obj\Debug\netcoreapp3.1\CalculadoraIntermedio.AssemblyInfoInputs.cache
+C:\Users\Nacho\Source\Repos\CalculadoraIntermedio\CalculadoraIntermedio\obj\Debug\netcoreapp3.1\CalculadoraIntermedio.AssemblyInfo.cs
+C:\Users\Nacho\Source\Repos\CalculadoraIntermedio\CalculadoraIntermedio\obj\Debug\netcoreapp3.1\CalculadoraIntermedio.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\Source\Repos\CalculadoraIntermedio\CalculadoraIntermedio\obj\Debug\netcoreapp3.1\CalculadoraIntermedio.dll
+C:\Users\Nacho\Source\Repos\CalculadoraIntermedio\CalculadoraIntermedio\obj\Debug\netcoreapp3.1\CalculadoraIntermedio.pdb
+C:\Users\Nacho\Source\Repos\CalculadoraIntermedio\CalculadoraIntermedio\obj\Debug\netcoreapp3.1\CalculadoraIntermedio.genruntimeconfig.cache

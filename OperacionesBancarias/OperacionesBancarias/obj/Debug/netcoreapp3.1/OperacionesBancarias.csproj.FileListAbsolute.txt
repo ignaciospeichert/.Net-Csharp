@@ -1,0 +1,12 @@
+C:\Users\Nacho\Source\Repos\OperacionesBancarias\OperacionesBancarias\bin\Debug\netcoreapp3.1\OperacionesBancarias.exe
+C:\Users\Nacho\Source\Repos\OperacionesBancarias\OperacionesBancarias\bin\Debug\netcoreapp3.1\OperacionesBancarias.deps.json
+C:\Users\Nacho\Source\Repos\OperacionesBancarias\OperacionesBancarias\bin\Debug\netcoreapp3.1\OperacionesBancarias.runtimeconfig.json
+C:\Users\Nacho\Source\Repos\OperacionesBancarias\OperacionesBancarias\bin\Debug\netcoreapp3.1\OperacionesBancarias.runtimeconfig.dev.json
+C:\Users\Nacho\Source\Repos\OperacionesBancarias\OperacionesBancarias\bin\Debug\netcoreapp3.1\OperacionesBancarias.dll
+C:\Users\Nacho\Source\Repos\OperacionesBancarias\OperacionesBancarias\bin\Debug\netcoreapp3.1\OperacionesBancarias.pdb
+C:\Users\Nacho\Source\Repos\OperacionesBancarias\OperacionesBancarias\obj\Debug\netcoreapp3.1\OperacionesBancarias.AssemblyInfoInputs.cache
+C:\Users\Nacho\Source\Repos\OperacionesBancarias\OperacionesBancarias\obj\Debug\netcoreapp3.1\OperacionesBancarias.AssemblyInfo.cs
+C:\Users\Nacho\Source\Repos\OperacionesBancarias\OperacionesBancarias\obj\Debug\netcoreapp3.1\OperacionesBancarias.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\Source\Repos\OperacionesBancarias\OperacionesBancarias\obj\Debug\netcoreapp3.1\OperacionesBancarias.dll
+C:\Users\Nacho\Source\Repos\OperacionesBancarias\OperacionesBancarias\obj\Debug\netcoreapp3.1\OperacionesBancarias.pdb
+C:\Users\Nacho\Source\Repos\OperacionesBancarias\OperacionesBancarias\obj\Debug\netcoreapp3.1\OperacionesBancarias.genruntimeconfig.cache

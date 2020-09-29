@@ -1,0 +1,9 @@
+C:\Users\Nacho\source\repos\Solucion_AseguradoraUTN\Entidades\bin\Debug\Entidades.dll
+C:\Users\Nacho\source\repos\Solucion_AseguradoraUTN\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Nacho\source\repos\Solucion_AseguradoraUTN\Entidades\bin\Debug\EntidadesGenericas.dll
+C:\Users\Nacho\source\repos\Solucion_AseguradoraUTN\Entidades\bin\Debug\EntidadesGenericas.pdb
+C:\Users\Nacho\source\repos\Solucion_AseguradoraUTN\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Nacho\source\repos\Solucion_AseguradoraUTN\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\source\repos\Solucion_AseguradoraUTN\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\Nacho\source\repos\Solucion_AseguradoraUTN\Entidades\obj\Debug\Entidades.dll
+C:\Users\Nacho\source\repos\Solucion_AseguradoraUTN\Entidades\obj\Debug\Entidades.pdb

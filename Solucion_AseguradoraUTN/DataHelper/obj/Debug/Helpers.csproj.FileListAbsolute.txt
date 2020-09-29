@@ -1,0 +1,6 @@
+C:\Users\Nacho\source\repos\Solucion_AseguradoraUTN\DataHelper\bin\Debug\DataHelper.dll
+C:\Users\Nacho\source\repos\Solucion_AseguradoraUTN\DataHelper\bin\Debug\DataHelper.pdb
+C:\Users\Nacho\source\repos\Solucion_AseguradoraUTN\DataHelper\obj\Debug\Helpers.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\source\repos\Solucion_AseguradoraUTN\DataHelper\obj\Debug\DataHelper.dll
+C:\Users\Nacho\source\repos\Solucion_AseguradoraUTN\DataHelper\obj\Debug\DataHelper.pdb
+C:\Users\Nacho\source\repos\Solucion_AseguradoraUTN\DataHelper\obj\Debug\Helpers.csprojAssemblyReference.cache

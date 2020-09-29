@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pN/axkRL2lBqStg7JXX5jRvqDazknKNbapKrEh3xwFOomRjCo5Ahgij/Oefr749lThmGRVUAPsndbj2uC5/JCg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nacho\\Source\\Repos\\Herencia\\Herencia\\Herencia.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nacho\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

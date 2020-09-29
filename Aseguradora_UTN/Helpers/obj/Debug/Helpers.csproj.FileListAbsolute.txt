@@ -1,0 +1,6 @@
+C:\Users\Nacho\source\repos\Aseguradora_UTN\Helpers\bin\Debug\Helpers.dll
+C:\Users\Nacho\source\repos\Aseguradora_UTN\Helpers\bin\Debug\Helpers.pdb
+C:\Users\Nacho\source\repos\Aseguradora_UTN\Helpers\obj\Debug\Helpers.csprojAssemblyReference.cache
+C:\Users\Nacho\source\repos\Aseguradora_UTN\Helpers\obj\Debug\Helpers.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\source\repos\Aseguradora_UTN\Helpers\obj\Debug\Helpers.dll
+C:\Users\Nacho\source\repos\Aseguradora_UTN\Helpers\obj\Debug\Helpers.pdb

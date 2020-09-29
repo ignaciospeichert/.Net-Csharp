@@ -1,0 +1,10 @@
+C:\Users\Nacho\Source\Repos\Sueldo\Sueldo\obj\Debug\Sueldo.csprojAssemblyReference.cache
+C:\Users\Nacho\Source\Repos\Sueldo\Sueldo\obj\Debug\Sueldo.Form1.resources
+C:\Users\Nacho\Source\Repos\Sueldo\Sueldo\obj\Debug\Sueldo.Properties.Resources.resources
+C:\Users\Nacho\Source\Repos\Sueldo\Sueldo\obj\Debug\Sueldo.csproj.GenerateResource.cache
+C:\Users\Nacho\Source\Repos\Sueldo\Sueldo\obj\Debug\Sueldo.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\Source\Repos\Sueldo\Sueldo\bin\Debug\Sueldo.exe.config
+C:\Users\Nacho\Source\Repos\Sueldo\Sueldo\bin\Debug\Sueldo.exe
+C:\Users\Nacho\Source\Repos\Sueldo\Sueldo\bin\Debug\Sueldo.pdb
+C:\Users\Nacho\Source\Repos\Sueldo\Sueldo\obj\Debug\Sueldo.exe
+C:\Users\Nacho\Source\Repos\Sueldo\Sueldo\obj\Debug\Sueldo.pdb
