@@ -1,0 +1,1 @@
+data source=DESKTOP-3A92C6E;Initial Catalog=dbventas;Integrated Security=true;
